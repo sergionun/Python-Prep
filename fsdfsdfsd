@@ -1,0 +1,1968 @@
+[33mcommit a1f7941d344d03511a449529806df970abf677dd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 91384121+sergionun@users.noreply.github.com <91384121+sergionun@users.noreply.github.com>
+Date:   Tue Jul 18 19:07:51 2023 -0500
+
+    practica con variables y condicionales.
+
+[33mcommit 962a4d189a70d63b50aceadc4eb0606b9e7d77c0[m
+Author: 91384121+sergionun@users.noreply.github.com <91384121+sergionun@users.noreply.github.com>
+Date:   Tue Jul 18 18:56:05 2023 -0500
+
+    practica de variables y condicionales.
+    a continuación algunos ejemplos de practica con variables y condicionales.
+
+[33mcommit 77ff7dbbbcd4c8f5f17b7d89cca8b34c6431d315[m
+Author: 91384121+sergionun@users.noreply.github.com <91384121+sergionun@users.noreply.github.com>
+Date:   Fri Jul 14 09:13:01 2023 -0500
+
+[33mcommit 7b194301ed06dfea65c6618bcac91dbd78537c72[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed Jul 12 23:43:06 2023 -0300
+
+    Revisión Homework
+    
+    Revisión Homeworks. Eliminación Readme sobre teoría anterior.
+
+[33mcommit 1eeec2754673c7fd67d88bd49036fc065fd2ec6c[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Jun 15 07:59:07 2023 -0300
+
+    "Consigna"
+    
+    Corrección consigna 9
+
+[33mcommit 68ad2038974590c9c077ba4f39264c5f74cdc8db[m
+Merge: 664fe1e fe9653c
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Jun 9 14:21:31 2023 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 664fe1e77f0d65a4d9c33c26904ffec8a1b58630[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Jun 9 14:19:35 2023 -0300
+
+    consigna actualizada
+
+[33mcommit cc677952851b38fb12f4ad899b1d6e977647af9b[m
+Author: Cris Zamorano <122123894+CRISZAM22@users.noreply.github.com>
+Date:   Fri Jun 9 12:46:22 2023 -0300
+
+    consigna actualizada
+
+[33mcommit fe9653c6dd982c6eed88e19561e8f14522866608[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Jun 9 08:55:27 2023 -0300
+
+    Update Practica.ipynb
+
+[33mcommit 3168fbc7c8e34a514e9d6fd78473674e1a85c376[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Jun 9 08:55:03 2023 -0300
+
+    Update Practica.ipynb
+
+[33mcommit 4b22a135a3177a3d252d11729587c87c77ca2dc9[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Jun 9 08:53:52 2023 -0300
+
+    Update Practica.py
+    
+    Aclaración que no tiene consigna.
+
+[33mcommit 2eb8150e3c51918cfa33b7c44ff05b4b751c2971[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Jun 8 11:28:41 2023 -0300
+
+    Update Prep_Course_Homework_03.py
+    
+    Aclaracion de consigna.
+
+[33mcommit 71bb8859d35e1902d8dcdf25e367f17c1090ec63[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Jun 8 11:27:40 2023 -0300
+
+    Update Prep_Course_Homework_03.ipynb
+    
+    Aclaracion consigna 23
+
+[33mcommit e88ce94ada37c4b47d0d0de02f64906ad69cb8cf[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed Jun 7 15:50:57 2023 -0300
+
+    Update Prep_Course_Homework_04-Resuelto.py
+    
+    factorial por factoreo en consigna
+
+[33mcommit c688e1a8630459df9b60ddc35933d46b99c80ebd[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed May 31 23:54:38 2023 -0300
+
+    corrección02
+
+[33mcommit ee53e01a5bc75e8d3a6e4b222842d93a918e0ea0[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed May 31 23:34:01 2023 -0300
+
+    agregado M01
+
+[33mcommit f2368fd5a8d8bc057f71c429c550eab94fd573af[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu May 25 08:20:53 2023 -0300
+
+    Update README.md
+    
+    Agregado de link al prep de matematicas.
+
+[33mcommit ef42b5cee4c6584b1bc46453ff09db41819d478e[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Thu May 25 08:17:33 2023 -0300
+
+    archivos .md
+
+[33mcommit ababaff59f2583c138b666462877ebe2289035b8[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue May 23 22:41:46 2023 -0300
+
+    actualización readme
+
+[33mcommit ce0848b5c193d5cbf24b6f1e5330f9659a8255f0[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue May 23 22:32:28 2023 -0300
+
+    checkpoint commit
+
+[33mcommit 4975e743f8f6ea5a2557b8f3a32cb3bd7ddf049a[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Mon May 22 14:47:07 2023 -0300
+
+    primer commit
+
+[33mcommit 41472dc5b4edf1df5ef5d811185b0a4cfdb60a71[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri May 19 17:22:56 2023 -0300
+
+    Readme
+    
+    Corrección del Readme
+
+[33mcommit 0a57f3f02a59521ced24dbd55e0cde119ef0b8c9[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri May 19 17:20:33 2023 -0300
+
+    Actualización Simulación
+    
+    Se actualiza la simulación a la que se hizo en el vivo de YouTube.
+
+[33mcommit 879adedca2280d36cb721c67b4064694161e60c8[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri May 19 15:28:50 2023 -0300
+
+    Cambio Nombres
+    
+    Se cambio el nombre de cada uno de los módulos.
+
+[33mcommit fecf9b0df111849960b6795eb673e001d50439be[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri May 19 14:13:45 2023 -0300
+
+    New Folder
+    
+    Se separo la simulación del Challenge a una nueva carpeta.
+
+[33mcommit e1f24d06bde686811adf9a8d294595926230e606[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri May 19 12:18:02 2023 -0300
+
+    Create Simulacion_Challenge
+
+[33mcommit 23c854852dac6e2a8377485aa0363f5ff6b78516[m
+Merge: 724da07 21fd20f
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue May 9 10:42:15 2023 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit 724da07677d14decdf92a1a8848bb3e460f5b8e8[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue May 9 10:42:10 2023 -0300
+
+    Cheat Lists
+
+[33mcommit 21fd20fc3ad50daa15e8ca572ad2f9f47420c2f0[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Apr 20 12:03:05 2023 -0300
+
+    Update README.md
+
+[33mcommit 35d2ec5b6cc79ecbe8647c70bba4873edbc172e4[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Apr 20 12:01:45 2023 -0300
+
+    Add files via upload
+
+[33mcommit 3abd8e4bea8a3353e41941ec77305f8561b52cb3[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed Mar 22 18:39:54 2023 -0300
+
+    Update README.md
+    
+    Detalles de edición.
+
+[33mcommit 53b4ba2d6393bbf3b5e48430d6c5b950ece42bed[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Wed Mar 22 18:27:01 2023 -0300
+
+    Update README.md
+    
+    Se cargo el video de Vimeo
+
+[33mcommit 56cfd6d007249251448bd7cbd5fe58e91a9d16b1[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 17:46:00 2023 -0300
+
+    hc
+
+[33mcommit 6e8d9855a469aa3d74c978626a753f668d538bf8[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 17:42:19 2023 -0300
+
+    hc
+
+[33mcommit 5522803a770f8015c3dca671aba88c3ae1db3c45[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 15:34:39 2023 -0300
+
+    hs
+
+[33mcommit dac19dd21209589659ba58ae0d6980f83453a4b6[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 15:23:11 2023 -0300
+
+    hc
+
+[33mcommit 8b97ad452070bec2e709436c2bed8a707ec5af20[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 15:21:45 2023 -0300
+
+    hc
+
+[33mcommit 82f35f3f7082d0eb7b959aa4fee12884ac1798e3[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Wed Mar 22 15:17:36 2023 -0300
+
+    hc
+
+[33mcommit 6e788208ec9a7d2fdb47ee22bb22c578664f9c7a[m
+Merge: 233819c 58bf370
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Mar 14 17:57:22 2023 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit 233819ce590acee30b8a544e4171730603e31d04[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Mar 14 17:57:17 2023 -0300
+
+    clase 8
+
+[33mcommit 58bf3709d03ad8052522b4a7f0e047483bdbb519[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Mar 2 14:57:24 2023 -0300
+
+    Update README.md
+    
+    Se cambio el horario de las clases en vivo a las 12 hs
+
+[33mcommit e73eed99f5850025ab2619f7d8ed6ca3b052d2e9[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Mar 2 14:56:36 2023 -0300
+
+    Update README.md
+    
+    Se cambio el horario de las clases en vivo a las 12 hs
+
+[33mcommit 64b41a5df63ee3d0664b0b26d539b87929aee4d0[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Mar 2 14:55:40 2023 -0300
+
+    Update README.md
+    
+    Se cambio el horario de las clases en vivo a las 12 hs
+
+[33mcommit ed5f5a4be4c60bbc6fd3d33a0de9cff91cbedbd9[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Mar 2 14:54:42 2023 -0300
+
+    Update README.md
+    
+    Se cambio el horario de las clases en vivo a las 12 hs
+
+[33mcommit 5407b2194a87e60ff5fbc46fd0f74f7ec544d9ae[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Feb 28 09:41:52 2023 -0300
+
+    entornos virtuales
+
+[33mcommit 9dff702d46dde83d98bb2ae6fbe6cf5392315e78[m
+Merge: 2858139 f04b657
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Feb 21 13:31:50 2023 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit 2858139f7941e6ba18e187deea1c9541afa7c8cb[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Feb 21 13:31:45 2023 -0300
+
+    virtualenv
+
+[33mcommit f04b6578158fa84fb99e8dadeac33c9a7995bca4[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 22:00:03 2023 -0300
+
+    Update README.json
+
+[33mcommit a43903d5784569ab0124faa541ed25f45d0d31e8[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:51:31 2023 -0300
+
+    Update README.md
+
+[33mcommit 5046cb9c310143d4191543aa755b7648ba7fcf59[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:48:51 2023 -0300
+
+    Update README.md
+    
+    Se agregraron los videos del Prep Course del Part-Time
+
+[33mcommit e2c535198d5bebe9d5c0824ae3c47e6a3dd1c5d4[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:40:20 2023 -0300
+
+    Update README.md
+
+[33mcommit 58a882b4fd04f0314771c0c0748fee9de17f0f5d[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:38:50 2023 -0300
+
+    Update README.md
+
+[33mcommit d6c9b923d2bd71af93e5fec400e7d267cdde9cc5[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:37:23 2023 -0300
+
+    Update README.md
+
+[33mcommit 5dfcff4bb091586b77cc097de6f26985cab4b92d[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:33:10 2023 -0300
+
+    Update README.md
+
+[33mcommit 0e310fbdff437c60c5a76c91bbe4018b46f6f7df[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:31:48 2023 -0300
+
+    Update README.md
+    
+    Se incorporo el link de admisiones y se amplio la explicación en la pestaña del Henry Challenge.
+
+[33mcommit 4fdbd53f7b2405ff755c9f54e9acf959625fbfad[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 21:29:15 2023 -0300
+
+    Update README.md
+    
+    "Cambio de acceso a las inscripciones "
+
+[33mcommit f9be8e29b4d19b40e90fb46aeb9e610da2f175f6[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Feb 14 20:18:06 2023 -0300
+
+    Update README.md
+
+[33mcommit bba9d7713f37a5ea04694a216c2a11fdf8bcf82e[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Feb 10 15:07:45 2023 -0300
+
+    Update README.md
+    
+    Se quito los accesos a las inscripciones al  Challenge mediante formulario.
+
+[33mcommit a3285c9599ab3f43f0070144ee300137d5866904[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Fri Feb 10 12:17:46 2023 -0300
+
+    Update README.md
+    
+    Eliminé el link de acceso a Zoom para las clases en vivo, se envian por Slack, junto con el horario de las mismas.
+
+[33mcommit 6d2b910ab9cc43a3a97ad71f13ed9ddabf8d9145[m
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Thu Feb 9 06:17:30 2023 -0300
+
+    Update README.md
+    
+    Quité el link a las inscripciones, sistema que deja de funcionar 13/02/23
+
+[33mcommit 4bbe485431a3224b77ef0a67787660dd1b96d021[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 26 14:44:55 2023 -0300
+
+    grabadas
+
+[33mcommit 0b4e4c9c2a3231b7f522c95ecd7c1601d9e4b30f[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 26 14:28:38 2023 -0300
+
+    clase 2
+
+[33mcommit 78f5a105d4f6f973f3662bc729799418e97bc9a3[m
+Merge: 08c126e 559e78f
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 26 14:12:26 2023 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit 08c126e89d22501aaae6addcb191acc49f820d71[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 26 14:12:21 2023 -0300
+
+    clase 2
+
+[33mcommit 559e78fe2e527ac37758c228d0ce91f11a4838d1[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Tue Jan 24 09:59:08 2023 -0300
+
+    google analytics
+
+[33mcommit f57b21581f16fd75dccc3da647c2d520e60eb5d2[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 11:06:20 2023 -0300
+
+    objetivos
+
+[33mcommit 95e721d6923fc9c0297dc3d50af1a3cdb176b7bd[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:31:55 2023 -0300
+
+    objetivos
+
+[33mcommit 45c018f372f37aa475f5ba269d0a4d1c0ab4941b[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:25:00 2023 -0300
+
+    objetivos
+
+[33mcommit b492b2d2fd7068c44ebce8b9e54111a04c85e19e[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:22:18 2023 -0300
+
+    objetivos
+
+[33mcommit edc386938fe1eb9ef70ecbd5db780a4425bafee7[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:21:51 2023 -0300
+
+    objetivos
+
+[33mcommit f83673f72530bfe7dd7fda9767cda9130a6bad4f[m
+Merge: a1d187b 7b06179
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:20:31 2023 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit a1d187b6ef3d9a48516e523429f0f8c95cd939f1[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Thu Jan 19 10:20:26 2023 -0300
+
+    objetivos
+
+[33mcommit 7b061797d616c997a97d3dfde7e3113080107b04[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Fri Jan 13 15:57:04 2023 -0300
+
+    prueba google analytics
+
+[33mcommit 78213817fb3d2b9a5f2a360793aa2c8b90215cce[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Fri Jan 13 09:31:06 2023 -0300
+
+    prueba analytics
+
+[33mcommit db6acb04fb5f1a371b38911f8fd1440b9631ffb0[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Fri Jan 13 09:28:55 2023 -0300
+
+    prueba analytics
+
+[33mcommit 70ff8daee2ad983f681d20cffc4c718ae2488877[m
+Merge: ee2b2b6 fd375b1
+Author: Cris Zamorano <61209933+HX-CZamorano2@users.noreply.github.com>
+Date:   Mon Jan 2 12:20:54 2023 -0300
+
+    Merge pull request #19 from soyHenry/feat/addTestimonialVideo
+    
+    add graduate testimonial video
+
+[33mcommit fd375b18a30cf43192719f30b3a103c237ad9884[m
+Author: Nadia Viñabal <116905045+HX-NVinabal@users.noreply.github.com>
+Date:   Mon Jan 2 11:25:28 2023 -0300
+
+    add graduate testimonial video
+
+[33mcommit ee2b2b61d44eb478b48a35b8793f70932d92de1c[m
+Merge: 07ff4b8 c2dfb32
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Fri Dec 16 15:12:44 2022 -0300
+
+    Merge branch 'main' of github.com:soyHenry/Python-Prep
+
+[33mcommit 07ff4b86d2f4863a39ff6f68562528408a9515be[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Fri Dec 16 15:12:39 2022 -0300
+
+    cp
+
+[33mcommit c2dfb323c910c084236614c79212e52d2cd540b5[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Dec 9 14:34:05 2022 -0300
+
+    data_prep_inicio 10.2
+
+[33mcommit 4bb07335263e2ee7de8159f5ead06ef938c97f35[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Dec 9 14:29:03 2022 -0300
+
+    ejercicios_en_vivo_10.1
+
+[33mcommit c5ff54c20bd53b9b02febb5f295682b3a21f6248[m
+Merge: 5bddc2f 0e7a7b4
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Nov 29 16:12:51 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 5bddc2f5931db1b0e08674e0c2883d2222b1880b[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Tue Nov 29 16:11:03 2022 -0300
+
+    ejercicios_en_vivo_8
+
+[33mcommit 0e7a7b40b78a35f8c617ffa8975517e003d8aadf[m
+Author: HX-DMLopez <dlopez@soyhenry.com>
+Date:   Mon Nov 28 14:14:18 2022 -0300
+
+    cp
+
+[33mcommit 7d2ce637a6dc6bb3dfa5405c4c854a2d80df1b9e[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Mon Nov 21 03:26:26 2022 -0300
+
+    ejercicios_en_vivo_7.9
+
+[33mcommit 8874ebe9682f0eae03d50b90333c1a3bba555b32[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Mon Nov 21 03:24:58 2022 -0300
+
+    ejercicios_en_vivo_7.8
+
+[33mcommit 74bb76eeffbaf8cccc4a136b3a834799f4744289[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Mon Nov 21 03:12:13 2022 -0300
+
+    ejercicios_en_vivo_7.7
+
+[33mcommit 232a796c490d7418f6b1c7edd293935c133ebdbd[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Mon Nov 21 03:06:25 2022 -0300
+
+    ejercicios_en_vivo_7.6
+
+[33mcommit b2fc0e65147203c74aaf40319ccdbe5aff3b15a9[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 15:43:25 2022 -0300
+
+    ejercicios_en_vivo_7.5
+
+[33mcommit 93f21389d5fe0e6ee9958ad1485b4f6cd94ea8bb[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 15:40:28 2022 -0300
+
+    ejercicios_en_vivo_7.5
+
+[33mcommit 7f2eb86e4c4b415dad9a11b8c9e5dbdbc0f2343e[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 13:40:59 2022 -0300
+
+    ejercicios_en_vivo_7.4
+
+[33mcommit e491bee0ff8a2492c13314cf73e6c8f2f6f22ca1[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 13:05:11 2022 -0300
+
+    ejercicios_en_vivo_7.3
+
+[33mcommit 2932739a786e9c068a9784008c38c1adcdf721ee[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 12:43:11 2022 -0300
+
+    ejercicios_en_vivo_7.2
+
+[33mcommit 90309674921bd1aa87bdb70d74b8616030c7ad41[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 12:37:05 2022 -0300
+
+    ejercicios_en_vivo_7.1
+
+[33mcommit 1577db8ca46dcd0ca0956eef13c93c426987a253[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sun Nov 20 12:30:30 2022 -0300
+
+    ejercicios_en_vivo_7
+
+[33mcommit daa1a18eca83488d1e3c4ffb906d70ad5bad1828[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 09:14:48 2022 -0300
+
+    ejercicios_en_vivo_6.5
+
+[33mcommit 55788541e688e72d668f33da5543254a39b9e38b[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 09:12:24 2022 -0300
+
+    ejercicios_en_vivo_6.4
+
+[33mcommit 5502f5885b1ae3b056e2c94a5cd1a7e4d8d5ef1d[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 09:10:31 2022 -0300
+
+    ejercicios_en_vivo_6.4
+
+[33mcommit dca71932971bfa84521285c537673c04dd12dd51[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:57:32 2022 -0300
+
+    ejercicios_en_vivo_6.3
+
+[33mcommit 92350d187bfc95f310b7456c041dfa06b22e7e05[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:56:46 2022 -0300
+
+    ejercicios_en_vivo_6.3
+
+[33mcommit 1c4566eb15f85b647e038cdaaeabf74e9162a90f[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:53:37 2022 -0300
+
+    ejercicios_en_vivo_6.2
+
+[33mcommit d3eb5a8519ecd2626b7645f9cc48538d9f233c33[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:41:41 2022 -0300
+
+    ejercicios_en_vivo_6.1
+
+[33mcommit 1191e0e904d83b1a2fa90ddc2d2e58d8d1bc4aa4[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:18:32 2022 -0300
+
+    ejercicios_en_vivo_6.0
+
+[33mcommit fcf0908a35cb8e9bd370aab71b7270783d2e456b[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 08:16:39 2022 -0300
+
+    ejercicios_en_vivo_5.9
+
+[33mcommit 611ec14f839fa08c6288ced700b1a0019f47ac42[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:56:01 2022 -0300
+
+    ejercicios_en_vivo_5.8
+
+[33mcommit dfa4c7f06a5ec9de280c4a2eabfc8098a4b8328c[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:52:01 2022 -0300
+
+    ejercicios_en_vivo_5.7
+
+[33mcommit 144aa4e408246c2903333d686a002d2719fc6a12[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:48:46 2022 -0300
+
+    ejercicios_en_vivo_5.6
+
+[33mcommit 030f7ef731a8c6f722ee105f98adf31516de27c6[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:45:11 2022 -0300
+
+    ejercicios_en_vivo_5.5
+
+[33mcommit eb5ab7d553ec4ae6774a41deb8b2105e2850afe2[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:39:50 2022 -0300
+
+    ejercicios_en_vivo_5.4
+
+[33mcommit 05fb2d279126614167106393ce714c2782f90f31[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:24:57 2022 -0300
+
+    ejercicios_en_vivo_5.3
+
+[33mcommit d79df1032246b5c768c4b7de62958711b5aed6b2[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:17:20 2022 -0300
+
+    ejercicios_en_vivo_5.2
+
+[33mcommit 44ab44a90cab2cc790070dee8fe68f074735687d[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:14:41 2022 -0300
+
+    ejercicios_en_vivo_5.1
+
+[33mcommit c90b9d12f91beb2927f0c106a260081acbc68a52[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:11:07 2022 -0300
+
+    ejercicios_en_vivo_5
+
+[33mcommit 26e48ebed05dda8edb842dbbcc8601278b4bb998[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:05:55 2022 -0300
+
+    ejercicios_en_vivo_4
+
+[33mcommit 4c621898d48a0336b42ace3610b88bfa3d777769[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 02:01:54 2022 -0300
+
+    ejercicios_en_vivo_3
+
+[33mcommit 1eb62bb74f7e196b026da9fc2261cfed6c8d0203[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 01:53:50 2022 -0300
+
+    ejercicios_en_vivo_2
+
+[33mcommit 25b4e32ba43ef6060e4c2a2f73e7320d770fc081[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Sat Nov 19 01:48:44 2022 -0300
+
+    ejercicios_en_vivo
+
+[33mcommit d66fcc4df7cc7b9b1f8f7de1f3aaaf762c60acdc[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Nov 18 17:54:44 2022 -0300
+
+    checkpoint commit
+
+[33mcommit a560b6e70748d168dd20b7026fbb9c0f1714e346[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Nov 18 17:52:03 2022 -0300
+
+    checkpoint commit
+
+[33mcommit 828e401812b5ae399855c94c96059a87ddb5c4c8[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Nov 18 17:48:57 2022 -0300
+
+    checkpoint commit
+
+[33mcommit c1f7661edb6ac5f3348a751de94972f0cfb81107[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Nov 18 16:35:25 2022 -0300
+
+    Update README.md
+    
+    Agregué el link correcto del repositorio de Prep-Data.
+
+[33mcommit d1791ff387981ed8f4c19823b68e30f0c3bee932[m
+Author: criszam99 <criszam99@gmail.com>
+Date:   Fri Nov 18 16:18:12 2022 -0300
+
+    Update README.md
+    
+    Se elimino el acceso a dos videos de clases de repaso en vivo que estaban ubicadas en la página principal.
+
+[33mcommit 1cc04c119f1cf9c7746a6929c77a09d638cc4371[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Oct 12 16:15:24 2022 -0300
+
+    cp
+
+[33mcommit 6b5f48bc2c8b0b92f96d007f088a83bc9ef17c34[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Oct 12 15:48:24 2022 -0300
+
+    intro
+
+[33mcommit 491d305149bfbb7bb247773ba14f72873fd4b545[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Oct 12 15:45:01 2022 -0300
+
+    cp
+
+[33mcommit 83fc7de42daeb042d611a7a50e8b75cc810c96f6[m
+Author: criszam99 <61209933+criszam99@users.noreply.github.com>
+Date:   Wed Aug 24 13:58:45 2022 -0300
+
+    Update README.md
+
+[33mcommit d17ee9a88c3d60758546278b5bfc124bccda6d94[m
+Author: criszam99 <61209933+criszam99@users.noreply.github.com>
+Date:   Wed Aug 24 13:53:19 2022 -0300
+
+    Update README.md
+
+[33mcommit 522d11e2daf32d775f600e6e077328f06e7492ad[m
+Author: criszam99 <61209933+criszam99@users.noreply.github.com>
+Date:   Wed Aug 24 13:48:59 2022 -0300
+
+    Update README.md
+
+[33mcommit 50eb83e05e9a9ffef9aad36dc696ef7697d36409[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 29 16:07:10 2022 -0300
+
+    Update README.md
+
+[33mcommit d4d98d34e6ea5625b47a14191c45aa0c80e190f6[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 27 11:11:56 2022 -0300
+
+    Update README.md
+
+[33mcommit 0528d6155999f38302516142a566574c2e20807c[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 27 09:45:31 2022 -0300
+
+    Update README.md
+
+[33mcommit e5a9752c285038e565572c2f820ce8ceb4964b3c[m
+Author: Juandaniele <juandaniele1@gmail.com>
+Date:   Wed Jul 27 09:40:53 2022 -0300
+
+    HC
+
+[33mcommit 69591a15d9fdc1a868dfeead11d63198d219f57c[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 27 09:31:19 2022 -0300
+
+    Update README.md
+
+[33mcommit 0ef68910e1cee3cb1b6bcdd8f5be860f1d1ffee5[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 27 09:26:03 2022 -0300
+
+    Update README.md
+
+[33mcommit f6f90340bbb5c83367ef76853047d1c304e7bcda[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 27 09:19:34 2022 -0300
+
+    Update README.md
+
+[33mcommit ff8339203449de5dfe836ddf68ac49ae5a9b6021[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 15 16:27:34 2022 -0300
+
+    Update README.md
+
+[33mcommit d38413028e2d9fa42195b93d1d54f716a38d7d95[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Mon Jul 11 11:49:00 2022 -0300
+
+    Update README.md
+
+[33mcommit 9d815ea59006cc694cbd661d7d74c534dcaf58a7[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:21:32 2022 -0300
+
+    Update README.json
+
+[33mcommit a8d43940cb6724ded7a35607ff10e0d77d2ead52[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:20:48 2022 -0300
+
+    Update README.json
+
+[33mcommit 72e23f3b4da28c3b119ea1cebdd8ea7a2618e1f7[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:19:50 2022 -0300
+
+    Update README.json
+
+[33mcommit 56665ff904ed52627d30d640b58ea50df7bea3e6[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:18:43 2022 -0300
+
+    Update README.json
+
+[33mcommit 85708a4962ebf96119f7144cd47bfc51f5e93621[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:18:09 2022 -0300
+
+    Update README.json
+
+[33mcommit 6f8ba26fb207c7d79fff023fddef589e4e5708db[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:17:47 2022 -0300
+
+    Update README.json
+
+[33mcommit cb3fbc49cf42c883896a3f18d2f33aac240c2a5f[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:17:19 2022 -0300
+
+    Update README.json
+
+[33mcommit 2ec7d26e3951c0067a21971ffc75edf90cb4868b[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:17:01 2022 -0300
+
+    Update README.json
+
+[33mcommit b2529ed417fe161b1a84620f321bef84c1012b8f[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:16:42 2022 -0300
+
+    Update README.json
+
+[33mcommit b038bf12158672544901c3c33f8e05eaa2fc48d5[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 16:15:24 2022 -0300
+
+    Update README.json
+
+[33mcommit 6311909fa7bc94685f641a85758ecc6fec554a1f[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 15:46:16 2022 -0300
+
+    Update README.json
+
+[33mcommit 9a3bfa0870a36f334030ebcc21502c0775c71439[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 15:45:56 2022 -0300
+
+    Update README.json
+
+[33mcommit 40dbeab0fcf0adad1b81c5f2f857eaf01b9c1724[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Fri Jul 8 15:26:44 2022 -0300
+
+    Update README.json
+
+[33mcommit 85ef35a0e11845e631c84410fb4ca287c81530ca[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:40:08 2022 -0300
+
+    Update README.md
+
+[33mcommit a7ae8c0edb6613695feb147483f38180d25aecbe[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:38:38 2022 -0300
+
+    Update README.md
+
+[33mcommit fccf9b9438827b7773b1a00a05dfd0cc9bd96901[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:36:00 2022 -0300
+
+    Update README.md
+
+[33mcommit 4b44a550a4849283cac68a390635d497470c2cf1[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:34:08 2022 -0300
+
+    Update README.md
+
+[33mcommit afe1d55721641486aaa6d27e6f66f4722be51da9[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:33:45 2022 -0300
+
+    Update README.md
+
+[33mcommit 0d5d74342f95f0d25439c5d21c0626b47b9c89ab[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:26:33 2022 -0300
+
+    Update README.md
+
+[33mcommit b9c71648d2a9468e2446a1cd991b0a6cd3a9afd7[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:26:10 2022 -0300
+
+    Update README.md
+
+[33mcommit 3047452e97cee0e74e4defa3cdddef6728304522[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:25:38 2022 -0300
+
+    Update README.md
+
+[33mcommit 7b762fcb10a539e691a632b71b2d73b98ffb80ff[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:25:13 2022 -0300
+
+    Update README.md
+
+[33mcommit b6e0a6a80fc4c40e65b00b192dbfd2b5019ee94d[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:22:44 2022 -0300
+
+    Update README.md
+
+[33mcommit 2fc68b2171dcf9c258c28521eaa955aaabcdeb7a[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Wed Jul 6 10:21:07 2022 -0300
+
+    Update README.md
+
+[33mcommit d72f2c6e318a76eeb18465bb32f8df15b7b95bdb[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Thu Jun 30 10:36:28 2022 -0300
+
+    Clase de apoyo 4
+
+[33mcommit e2bc499364fb2d81ea5f70097ee029df30cca332[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Thu Jun 30 10:36:12 2022 -0300
+
+    Clase de apoyo 3 - final
+
+[33mcommit c96e48f0a6755e72b8282011130a39b049833b35[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jun 29 17:42:15 2022 -0300
+
+    pp
+
+[33mcommit 5d64df452c42efa199cdd4077e59c091d6bca374[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jun 29 17:40:28 2022 -0300
+
+    pp
+
+[33mcommit a7cc35cd4b837c8632c392c4f57cb5ad9d20fb86[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jun 29 17:19:07 2022 -0300
+
+    c3
+
+[33mcommit 41d600ee1873992fdc53708355de7b854d25198b[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Tue Jun 28 11:29:10 2022 -0300
+
+    final clase de apoyo 3
+
+[33mcommit c7b661f38a70622469a32c18eb093949310d4a99[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Tue Jun 28 11:24:34 2022 -0300
+
+    -clase de apoyo 03
+
+[33mcommit 85e4bfa0fd86517c43996a93c3416bcc5c057b1b[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Tue Jun 28 11:22:41 2022 -0300
+
+    prueba
+
+[33mcommit 71ce285b96674fab6f66fc0778971843043582a7[m
+Author: Juan Daniele <79294743+Juandaniele@users.noreply.github.com>
+Date:   Tue Jun 28 11:21:09 2022 -0300
+
+    clase de apoyo 3
+
+[33mcommit 9d3e93d64941434032d3e24a1afab7bfac770f85[m
+Merge: 13508f0 f6b1c6a
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Apr 6 14:56:22 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 13508f05eff20ee9407c744e226477aa981d87a8[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Apr 6 14:56:17 2022 -0300
+
+    correcciones
+
+[33mcommit f6b1c6a66283ebe98d010f1dbe894641be0b4348[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Mar 25 17:54:48 2022 -0300
+
+    Create .eleventyignore
+
+[33mcommit 2dd2a4dc843db63922d960709afcaa8d6ddd47f1[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Mar 15 12:17:28 2022 -0300
+
+    ref_valor
+
+[33mcommit 3bb371a61ced5ff118142fa0723baa9cdb4e22ef[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Mar 11 13:01:26 2022 -0300
+
+    video clase 9
+
+[33mcommit 32576c4951e0b5a399af468431e3d6c7571803d3[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Mar 11 12:59:39 2022 -0300
+
+    video clase 9
+
+[33mcommit f9bd2de1acf976b1162776d9750ebac66e7802e5[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Mar 10 14:27:34 2022 -0300
+
+    video clase 8
+
+[33mcommit 853658e152f952c45266a128d6659fadbe621865[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Mar 9 13:18:18 2022 -0300
+
+    video clase 7
+
+[33mcommit feb6f6b3ec1463248d6bb0f2b3720302181e8a79[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Mar 9 12:57:34 2022 -0300
+
+    video clase 7
+
+[33mcommit 8d0ab194219d445d60aa27ddd0d73aa29fc82107[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Mar 8 17:32:44 2022 -0300
+
+    clase 7
+
+[33mcommit f0d1bfbef3b6101a1c6a00f8b19f94f579dab5cc[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Mar 8 14:19:31 2022 -0300
+
+    video clase 6
+
+[33mcommit bd5390baf6222d6be22a105f6e490d0c329f5ca9[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Mar 7 17:55:51 2022 -0300
+
+    practica 8
+
+[33mcommit 1105547e092c63dbd9931e2ed87de5dd34b0d291[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Mar 7 12:55:08 2022 -0300
+
+    video clase 5
+
+[33mcommit acd91ed7247ceb7ecc291823f836c4222d293c80[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Mar 4 18:55:13 2022 -0300
+
+    video clase 4
+
+[33mcommit d274d6d8a6a04ef20abde8f7634b8e1a476cbba9[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Mar 3 15:29:32 2022 -0300
+
+    v
+
+[33mcommit fb4cba21a6d61a842dc02b1a812f0621ebdac882[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Mar 3 13:23:18 2022 -0300
+
+    video clase 3
+
+[33mcommit ca10730ac3ccc6e3a80d87de3ac7e07264673ecd[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Mar 1 12:47:53 2022 -0300
+
+    video clase 1
+
+[33mcommit 95201da3ea8fa5b6d9b3d5474d6cec6ab92a8013[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 25 18:06:53 2022 -0300
+
+    open house
+
+[33mcommit cdc7abda7a75ee4dc4fb3e6f6e5b37f3661e1c5d[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 22 11:56:06 2022 -0300
+
+    hc
+
+[33mcommit 38b7d3b913cacb5c00f803c812222e879504e39a[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 21 16:24:51 2022 -0300
+
+    hc
+
+[33mcommit 42d668ad9863131f54df5c78a4de8ebb567d0751[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 18 12:22:39 2022 -0300
+
+    video clase 10
+
+[33mcommit a1016abca52403613c64e689d731668f278340ad[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 17 17:36:41 2022 -0300
+
+    hc
+
+[33mcommit ca61bad393d041faf3f1b03f1a572ae2322ea5d2[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 17 16:38:09 2022 -0300
+
+    hc
+
+[33mcommit 9fba54071ce152eda2c3815db0c16f175375a850[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 17 15:39:29 2022 -0300
+
+    hc
+
+[33mcommit c799e3b0d76081b836817e625fdae87aee70d261[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 17 12:26:45 2022 -0300
+
+    video clase 9
+
+[33mcommit 5138cac5093096ee355b20ed7e4241b307d67ee9[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Feb 16 17:22:08 2022 -0300
+
+    videos clases 7 y 8
+
+[33mcommit b85240290c5b341be2ab2a47a7f9f14ee1a92b17[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 14 16:56:57 2022 -0300
+
+    ejercicios clase 9
+
+[33mcommit 1bc5770c690099810743138d53083f203a0372ba[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 14 16:01:34 2022 -0300
+
+    ejercicio 9
+
+[33mcommit cd13fb34ef80066a48df9c597f60df9f3a2754e8[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 14 16:00:23 2022 -0300
+
+    ejercicio 9
+
+[33mcommit 0da11adbfebb18c8e0a18282207eca6304e534f0[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 14 14:13:24 2022 -0300
+
+    video clase 6
+
+[33mcommit c7d0b641877a6a83de58306b64eb78c5b87d301a[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 11 16:45:47 2022 -0300
+
+    video clase 5
+
+[33mcommit 841d2d1069a88cc8ffc67d192f507882a2cdb0a8[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 11 16:38:50 2022 -0300
+
+    video clase 5
+
+[33mcommit 9517fd6db9a7ad8f1a56f5f20bb76a0f1a316938[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 11 09:38:07 2022 -0300
+
+    video clase 4
+
+[33mcommit 9d575ebb6654b328bd50db3862a07d6dc39da656[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 10 16:12:50 2022 -0300
+
+    video clase 4
+
+[33mcommit 87a0e38a29875ae68a592009a27e34227d1693de[m
+Merge: 1c5ed88 422a21e
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Feb 9 15:46:05 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 1c5ed88bfd4c1474fcf8def545adc753cd55d46f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Feb 9 15:46:01 2022 -0300
+
+    video clase 3
+
+[33mcommit 422a21e7f9ad18fa1812b94bcb87913b574644df[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Wed Feb 9 15:07:51 2022 -0300
+
+    adds feedback link to all classes
+
+[33mcommit f8c4df05de127b35af7f47b0c5a0b61903c2ddf1[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 8 15:56:50 2022 -0300
+
+    video clase 2
+
+[33mcommit 46ff4a6b536fc0e0a68528285cee5037e30ea15a[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 8 12:23:36 2022 -0300
+
+    video clase 2
+
+[33mcommit 28294f8df292dc9bbf010819eaa0361e0592e7d7[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 8 12:22:00 2022 -0300
+
+    video clase 2
+
+[33mcommit 348c28067c6acf0b941c94c270379c29794623a9[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 18:04:25 2022 -0300
+
+    video clase 1
+
+[33mcommit 22bfb10999d9e611c14d42d0a45c99ded86aedfd[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:46:51 2022 -0300
+
+    video clase 1
+
+[33mcommit adcb94909064d3c7bac168991117182dc24621b0[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:46:10 2022 -0300
+
+    video clase 1
+
+[33mcommit 21f4c717bcec515306251e5ac19bdbe5d82c930e[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:44:33 2022 -0300
+
+    video clase 1
+
+[33mcommit cc311cb58a7e9cfc12e938f520580f95c5f05944[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:42:53 2022 -0300
+
+    video clase 1
+
+[33mcommit 47f33bc3c7f07b69de0fd1a5b6be12665a08058d[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:40:22 2022 -0300
+
+    video clase 1
+
+[33mcommit d431019b0ff97da3f8c5aa7a9d46e7f9998de196[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:32:37 2022 -0300
+
+    correcciones
+
+[33mcommit a59847250322a737a21dc25db11e42c1c00e61e9[m
+Merge: 736ff1d f83e442
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:31:25 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 736ff1d178cd8e1833c4629f072f51d4a96d5703[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 17:31:15 2022 -0300
+
+    correcciones
+
+[33mcommit f83e442adbe0fce4ff5bf2bb0e077e676bf2bc3d[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Feb 7 12:07:18 2022 -0300
+
+    Update README.md
+
+[33mcommit b3e47fabac894ed83f0d824e68a7454fcd8a6937[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Feb 7 12:05:51 2022 -0300
+
+    Update README.md
+
+[33mcommit 884bdec2d401ca165a07f480b82efb35a6255268[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Feb 7 12:00:18 2022 -0300
+
+    Update README.md
+
+[33mcommit f0139aaa5fe8805cccbdc5e66f4169a336c92a0a[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Feb 7 11:53:43 2022 -0300
+
+    Update README.md
+
+[33mcommit 460892346966bfda6db544098a1b0a59dd95eebb[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Mon Feb 7 11:51:42 2022 -0300
+
+    Update README.md
+
+[33mcommit f2e91257177a50f4744291037d3938cbc02914b6[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Mon Feb 7 11:45:31 2022 -0300
+
+    Update README.md
+
+[33mcommit c4073440f99e9c15d4890b60aed4f1ec03a44927[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Mon Feb 7 10:04:09 2022 -0300
+
+    fixs clase 09
+
+[33mcommit 5e7e6d577163f981aaced15f7b359ada2144c615[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 09:46:02 2022 -0300
+
+    correcciones
+
+[33mcommit 9b2505df0a56484627da745ae15c0ca13859d87c[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 09:38:31 2022 -0300
+
+    correcciones
+
+[33mcommit 0e3d759025995ca5525be0f2ee77bbe0b40747eb[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Feb 7 09:15:42 2022 -0300
+
+    correcciones
+
+[33mcommit c866510fadbe051cc85e364594706d602bf86168[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 4 17:57:54 2022 -0300
+
+    practica 9
+
+[33mcommit 83d7b432e09e5a9a324cf83d0aac503f12885075[m
+Merge: 291d740 48000ec
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 4 13:11:21 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 291d740fe85e58ebf2a6de98ad3be20d90b7475f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Feb 4 13:11:16 2022 -0300
+
+    correcciones
+
+[33mcommit 48000ecb9cbf5fb0587b4620d5778dcf839883e6[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Fri Feb 4 10:47:37 2022 -0300
+
+    Update README.md
+
+[33mcommit 4ce7215d4220be9c0f81b9eb986d95623fa46bdb[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Fri Feb 4 10:40:38 2022 -0300
+
+    Update README.md
+
+[33mcommit 4b2b404b3933e636951590a60022d4801b9fa97b[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Fri Feb 4 10:26:51 2022 -0300
+
+    Update README.md
+
+[33mcommit b339460432666dfcaad21e74b80997aa6e4938a2[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 3 17:02:26 2022 -0300
+
+    correcciones
+
+[33mcommit 48c17837b38a0b1c38f34b58b997291967904cff[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 3 16:39:01 2022 -0300
+
+    correcciones
+
+[33mcommit 1ae34ab82e419198b1543c91193ed7acd351008f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 3 16:33:48 2022 -0300
+
+    clase 9
+
+[33mcommit 75e339d58a1ecf35d4ae74434ce00861f2661f99[m
+Merge: e8b5cb2 6303a46
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 3 12:57:57 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit e8b5cb2de80a530ff2040aaf6972e7f93f919c12[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Feb 3 12:57:45 2022 -0300
+
+    Agregado Clase 9
+
+[33mcommit 6303a465ea80e1df90ac2358bd9ef06fbe518483[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 15:23:45 2022 -0300
+
+    Update README.md
+
+[33mcommit fb20eb7315e4b37f56a86b2d7e9c989d7a196f37[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Wed Feb 2 14:22:37 2022 -0300
+
+    json fix
+
+[33mcommit 0c4f2c8d2b082bfa8c13c52b6fbad09bb6ed25f8[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 13:09:33 2022 -0300
+
+    Update README.md
+
+[33mcommit 956e1905ff28ddf759099e9e3c284240b3f00d85[m
+Merge: b3e7bb0 80ae875
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Feb 2 12:53:32 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit b3e7bb0bf64e61ec9e2e165ee81488cbe3e6aa30[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Feb 2 12:53:25 2022 -0300
+
+    correcciones
+
+[33mcommit 80ae87597e650b9a6c6ef905efee237f60a79dda[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 12:47:16 2022 -0300
+
+    Update README.md
+
+[33mcommit aaa45c62268060715cba7e8a2530d056cdc354d2[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 11:57:21 2022 -0300
+
+    Update README.md
+
+[33mcommit a24a5ef033a1e77503e85717725b9e71a6722ed2[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 11:15:45 2022 -0300
+
+    Update README.md
+
+[33mcommit 264a6defb054106f9a12f303207d72d70d280fed[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Wed Feb 2 10:04:06 2022 -0300
+
+    quizz examples added
+
+[33mcommit 47aa9ff2ffcfd14c902a2537cda45a8d54b2e7f7[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Wed Feb 2 10:03:36 2022 -0300
+
+    quizz added to layout
+
+[33mcommit 5a9ba7395477e5f78c14013898d6043b064f5caf[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Wed Feb 2 09:38:46 2022 -0300
+
+    Update README.md
+
+[33mcommit bfd97029f10097d61446c24e4f88c19f89a7fa6a[m
+Merge: 4281520 7146aa5
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 1 17:13:13 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 4281520599614d74522314f1c809a5d215ef1058[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 1 17:12:59 2022 -0300
+
+    correcciones
+
+[33mcommit 7146aa52c20bc732106417344770b7d19752ba86[m
+Merge: 2b209b5 b178bc1
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Tue Feb 1 12:12:03 2022 -0300
+
+    Merge pull request #7 from lcordeyro/patch-6
+    
+    Update README.md
+
+[33mcommit 2b209b5015ca5766e8c4539cd1e0519ffe3819a0[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Tue Feb 1 11:51:59 2022 -0300
+
+    Update README.md
+
+[33mcommit b178bc1d20ac5e1a80887f894d79aeb64da8f646[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Tue Feb 1 11:51:59 2022 -0300
+
+    Update README.md
+
+[33mcommit 0c541e43474dc0095f38df2c0f71c1099c515710[m
+Merge: bb6c08d 56cfdde
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 1 11:44:40 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit bb6c08da538cc34bd2c0660dac0554ebdc705d58[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 1 11:44:18 2022 -0300
+
+    correcciones
+
+[33mcommit 56cfdde6121543265ca331866cf62dd5d8c72b35[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Tue Feb 1 09:46:31 2022 -0300
+
+    Update README.md
+
+[33mcommit 8d255be7bc04cf2ad441e1315668662834c6c7ad[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Feb 1 10:58:41 2022 -0300
+
+    correcciones
+
+[33mcommit 33af6286513aa462bffa3649d87599026ba6d826[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:31:00 2022 -0300
+
+    prueba
+
+[33mcommit c1a382d819e1aea3147daeede11b9350918476eb[m
+Merge: 3890e2a 8663462
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:29:14 2022 -0300
+
+    Merge pull request #3 from lcordeyro/patch-3
+    
+    Update README.md
+
+[33mcommit 866346219ad3b063162a802ea6f4bb8009fd4b54[m
+Merge: 8255b1e 3890e2a
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:24:12 2022 -0300
+
+    Merge branch 'main' into patch-3
+
+[33mcommit 3890e2a96e12e77117c5b8cdeb323068ed8b7a69[m
+Merge: ebb2d6a 2f1ad7d
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:19:57 2022 -0300
+
+    Merge pull request #4 from lcordeyro/patch-4
+    
+    Update README.md
+
+[33mcommit 2f1ad7dae491673b894b87a2c1b0a7c774462b15[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Jan 31 17:14:08 2022 -0300
+
+    Update README.md
+
+[33mcommit ebb2d6abf4cb07d4d491c872eade8d70b9a0768c[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:13:57 2022 -0300
+
+    Update README.md
+
+[33mcommit 8255b1eedecb4ea32ed5f22d24e73e5a1aa27612[m
+Author: lcordeyro <97981728+lcordeyro@users.noreply.github.com>
+Date:   Mon Jan 31 17:10:14 2022 -0300
+
+    Update README.md
+    
+    Prueba cambios
+
+[33mcommit 9436d67ecd0b024531025456be834b7b541314b2[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 17:09:54 2022 -0300
+
+    Update README.md
+
+[33mcommit b11f19aabe13ce0419bb2cd59bccb03379aa2caa[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 11:11:32 2022 -0300
+
+    temario
+
+[33mcommit fc2abd2323677550e9bd1bbcca1f1bcb84df6650[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 10:55:13 2022 -0300
+
+    enlaces a prácticas
+
+[33mcommit 4aec1885136fdcff98899d2be13c8908b39f8b21[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 31 10:34:32 2022 -0300
+
+    correcciones
+
+[33mcommit 2e20209b23b5f78ac491251863152d2b42e1b126[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 28 17:02:43 2022 -0300
+
+    practica final
+
+[33mcommit cd351e1a3caa84d3692c38ae195191fd52ec9b9d[m
+Merge: fc68bf0 ac85fa5
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 28 16:58:06 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit fc68bf0608bbe78de2ca4a9ebd4ff04ea6cf250c[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 28 16:56:54 2022 -0300
+
+    practica 8
+
+[33mcommit ac85fa55f502c7433f8841537a59fd5218fa0a50[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 28 15:52:22 2022 -0300
+
+    CloudFront implementation
+
+[33mcommit 993f2e50f2252c6cf65ff66ece5c8166659a1dc5[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Fri Jan 28 15:49:03 2022 -0300
+
+    Local styles for development
+
+[33mcommit 567a4e43d769574b1f7de6a29c7447c600a6602f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 27 18:12:31 2022 -0300
+
+    practica 7
+
+[33mcommit 2b59e94f0760f4502f7c6c49ef6b2792ce8c4af7[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 26 19:53:08 2022 -0300
+
+    practica 7
+
+[33mcommit 802bcc8cba086701b8f932ba57f421d4336f07a2[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 25 18:56:03 2022 -0300
+
+    practica 6
+
+[33mcommit afb7221279903a641d9379a9734ecec60f4e2d39[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 25 11:08:32 2022 -0300
+
+    practica 4
+
+[33mcommit b8c424ac81585a512f5dc67de33eb324df30994f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 24 18:21:22 2022 -0300
+
+    practica 4
+
+[33mcommit 431f1fd95b7d023cffc2a7d5fadf8c6aa369f4e8[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 24 18:08:04 2022 -0300
+
+    practica 3
+
+[33mcommit 630e6a7f9fd6f1346337d7d9dafeb991bd898d39[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 24 12:02:02 2022 -0300
+
+    practica 1
+
+[33mcommit 1f754b77631f775d22e53189ec902a55d4ed08bf[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 20 13:28:24 2022 -0300
+
+    practica
+
+[33mcommit 263ecf519fd0aefc110ccc0337ede91fc77a1168[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 20 13:22:34 2022 -0300
+
+    practica
+
+[33mcommit df9e1b2fd594f6f60b1df9fc80009546e68b971b[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 19 15:59:06 2022 -0300
+
+    encuestas de satisfacción
+
+[33mcommit 08d5f65bd6bce0a41970a73201963e1bd2196406[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 19 15:53:19 2022 -0300
+
+    división de clases
+
+[33mcommit 9573b3b7a00d191343e1c2f967f83272aa412ee3[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 19 13:28:16 2022 -0300
+
+    correcciones
+
+[33mcommit 47078f1a6a70d8b918e047f4e9e85bc67d0a2a85[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 19 13:20:47 2022 -0300
+
+    correcciones
+
+[33mcommit 118a9d7602b6b4c09862a637495653c3430f6c16[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Wed Jan 19 10:14:15 2022 -0300
+
+    correcciones
+
+[33mcommit 43542fef0429a4a63e599fb4a64a010ba2dd7093[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 19:05:08 2022 -0300
+
+    correcciones
+
+[33mcommit 22141687664e682b31c7a03929c7d08622b12366[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 18:10:52 2022 -0300
+
+    instalaciones
+
+[33mcommit 9b063ca84c1648d7996fa1db5cf5fb3019d7433f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 17:12:16 2022 -0300
+
+    iteradores
+
+[33mcommit 971fb9c8cdc429cc8e8b383fac63c63d9c79b441[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 14:09:10 2022 -0300
+
+    correcciones
+
+[33mcommit 49e8a1bfd186fb74a7dc2a0e92e1f738cde82ee6[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 11:23:06 2022 -0300
+
+    correcciones2
+
+[33mcommit 1ba70699695f4d968ec0e7cdfdaf7bbb5f6cc342[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 11:21:51 2022 -0300
+
+    correcciones2
+
+[33mcommit e6bf9bd1e449e5789456225c40b1c05641323de3[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 11:17:28 2022 -0300
+
+    correcciones1
+
+[33mcommit 57e57fa496c3c317e097fc61cbc4309051d4042c[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Tue Jan 18 10:24:09 2022 -0300
+
+    excepciones
+
+[33mcommit d9b7207571d2589ca007df1b8b75e86dae9c5242[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 15:58:03 2022 -0300
+
+    manejo de errores
+
+[33mcommit f960d671a049696849d0cef09a9d9312ebc7c625[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 14:17:38 2022 -0300
+
+    librerias
+
+[33mcommit d7652a15c9e71dfb4f80af3c10c6b224b22c01b0[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 14:11:48 2022 -0300
+
+    clases
+
+[33mcommit 21fd189784c2795e82668fd835acede343e8de58[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 12:59:04 2022 -0300
+
+    funciones
+
+[33mcommit 36b76c0ec3ed0807ebfd12dccc9f36e569965500[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 11:45:46 2022 -0300
+
+    tuplas y dicts
+
+[33mcommit f9ba5546514e978b3a8ac9ad830ad6bb83b49816[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Mon Jan 17 10:09:41 2022 -0300
+
+    listas
+
+[33mcommit 443d56398d61e08c7dd9a7817e97d700d13100f7[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 14 17:58:25 2022 -0300
+
+    Listas
+
+[33mcommit 84eef83796bb76a48ed48c3645114db08647d85f[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 14 10:42:00 2022 -0300
+
+    Variables
+
+[33mcommit 91bbddcac2c50a9ece09bfe2dafb9861e9937cda[m
+Merge: 7716511 8b3b87c
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Fri Jan 14 10:40:30 2022 -0300
+
+    Merge branch 'main' of https://github.com/soyHenry/Python-Prep
+
+[33mcommit 8b3b87cbf8a25d38c6b16faf079c695bff965a21[m
+Merge: 55d3207 c9a5c62
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Fri Jan 14 10:35:10 2022 -0300
+
+    Merge pull request #1 from soyHenry/feat/cached-resources
+    
+    Feat/cached resources
+
+[33mcommit 7716511d72db83d435568beeb71050d267c14ba2[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 13 17:43:22 2022 -0300
+
+    commit on 'main'
+
+[33mcommit 21f62904735b92d19caf9d58439a8181d7899c55[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 13 17:31:27 2022 -0300
+
+    commit on 'main'
+
+[33mcommit 58d17d4d0a70d1345861a41474b21ae8630b5b3e[m
+Author: lopezdar222 <41219954+lopezdar222@users.noreply.github.com>
+Date:   Thu Jan 13 17:24:30 2022 -0300
+
+    commi on 'main'
+
+[33mcommit c9a5c624d0fdbafd5574cb97df5c6af42012c1fd[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Thu Jan 13 16:46:16 2022 -0300
+
+    styles cached
+
+[33mcommit 03df7b854432114d21fb06160b7647936c095e56[m
+Author: Ignacio Amatt <ignacio_amatt@hotmail.com>
+Date:   Thu Jan 13 16:37:01 2022 -0300
+
+    Update package.json
+
+[33mcommit 55d3207848b1e785890e61ccf3a090ebc2f1c0ab[m
+Author: Antonio Tralice <atralice@gmail.com>
+Date:   Tue Jan 11 15:05:19 2022 -0300
+
+    Initial commit
